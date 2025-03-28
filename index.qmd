@@ -8,6 +8,7 @@ authors:
   - name: Sierra Mattair
     affiliation: The University
     roles: writing
+format: html
 bibliography: references.bib
 ---
 
