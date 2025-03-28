@@ -1,5 +1,10 @@
 project:
   type: manuscript
+  output-dir: docs
+
+title: "My Document"
+bibliography: references.bib
+csl: apa-6th-edition.csl
 
 manuscript:
   article: index.qmd

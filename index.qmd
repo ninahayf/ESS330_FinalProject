@@ -1,7 +1,11 @@
 ---
 title: "ESS 330 Project Proposals"
 authors:
-  - name: Norah Jones
+  - name: Nina Hayford
+    affiliation: The University
+    roles: writing
+    corresponding: true
+  - name: Sierra Mattair
     affiliation: The University
     roles: writing
     corresponding: true
