@@ -4,7 +4,7 @@ project:
 
 title: "My Document"
 bibliography: references.bib
-csl: apa-6th-edition.csl
+csl: apa.csl
 
 manuscript:
   article: index.qmd
@@ -21,9 +21,5 @@ format:
 
 execute:
   freeze: true
-
-chapters:
-  - index.qmd
-  - references.bib
 
 

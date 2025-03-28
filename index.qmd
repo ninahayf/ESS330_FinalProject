@@ -8,7 +8,6 @@ authors:
   - name: Sierra Mattair
     affiliation: The University
     roles: writing
-    corresponding: true
 bibliography: references.bib
 ---
 
@@ -42,4 +41,4 @@ bibliography: references.bib
 	Proposed Methods: I plan to carry out this study by obtaining datasets of species numbers over the last 25 years. Once finding out what species had declined and inclined in the last 25 years, we can research those species to see if there were any conservation efforts to help that particular species. Once that research is done, we will be left with a small pool of species that (1) had a massive decline, (2) had a massive incline, (3) had conservation efforts put in place to help growth. 
 	Expected Outcomes: I expect us to find that almost all the species that inclined after a massive decline increased due to conservation efforts. 
 
-[@knuth84]
+[@ninahayf]
